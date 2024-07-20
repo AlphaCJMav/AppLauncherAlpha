@@ -14,23 +14,17 @@ Características
 
 Uso
 
-    Clona el Repositorio:
+Clona el Repositorio:
 
-    bash
+    . git clone https://github.com/tu_usuario/tu_repositorio.git
 
-. git clone https://github.com/tu_usuario/tu_repositorio.git
+Haz el Script Ejecutable:
 
-    Haz el Script Ejecutable:
+    . chmod +x crear_lanzador.py
 
-    bash
+Ejecuta el Script:
 
-. chmod +x crear_lanzador.py
-
-    Ejecuta el Script:
-
-    bash
-
-./crear_lanzador.py
+    ./crear_lanzador.py
 
 Sigue las instrucciones en pantalla para ingresar los detalles del lanzador y guarda el archivo en la ubicación deseada.
 
