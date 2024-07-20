@@ -1,31 +1,39 @@
-# AppLauncherAlpha
-Script para Crear Lanzadores .desktop en Linux  Este script en Python permite crear archivos .desktop para aplicaciones en sistemas Linux. Los archivos .desktop son usados para definir aplicaciones y sus propiedades en el entorno de escritorio.
-Lo cree porque en la web no he encontrado informacion , es para Gnome cuando no trae la opcion de crear lanzador 
-Espero los Ayude tanto como a mi 
-GRACIAS 
+AppLauncherAlpha
 
+Script to Create .desktop Launchers on Linux
 
-Características
+This Python script allows you to create .desktop files for applications on Linux systems. .desktop files are used to define applications and their properties in the desktop environment. I created this script because I couldn't find any information online, especially for Gnome when it doesn’t have the option to create a launcher.
 
-Generación Automática: Crea archivos .desktop con las propiedades especificadas por el usuario.
-Flexibilidad en la Ruta: Permite especificar la ruta para guardar el archivo .desktop y asegura que la extensión .desktop sea añadida si es necesario.
-Soporte para Opciones Adicionales: Incluye campos opcionales para acciones adicionales y tipos MIME.
-Mensajes Claros: Proporciona instrucciones sobre dónde colocar el archivo para que esté disponible globalmente o solo para el usuario actual, y cómo agregar el directorio al perfil de bash.
+I hope it helps you as much as it has helped me.
 
-Uso
+THANK YOU
+Features
 
-Clona el Repositorio:
+    Automatic Generation: Creates .desktop files with properties specified by the user.
+    Path Flexibility: Allows specifying the path to save the .desktop file and ensures that the .desktop extension is added if necessary.
+    Support for Additional Options: Includes optional fields for extra actions and MIME types.
+    Clear Messages: Provides instructions on where to place the file to make it available globally or just for the current user, and how to add the directory to the bash profile.
 
-    . git clone https://github.com/tu_usuario/tu_repositorio.git
+Usage
 
-Haz el Script Ejecutable:
+Clone the Repository:
 
-    . chmod +x crear_lanzador.py
+bash
 
-Ejecuta el Script:
+git clone https://github.com/your_username/your_repository.git
 
-    ./crear_lanzador.py
+Make the Script Executable:
 
-Sigue las instrucciones en pantalla para ingresar los detalles del lanzador y guarda el archivo en la ubicación deseada.
+bash
 
-GRACIAS.
+chmod +x create_launcher.py
+
+Run the Script:
+
+bash
+
+./create_launcher.py
+
+Follow the on-screen instructions to enter the launcher details and save the file in the desired location.
+
+THANK YOU.
