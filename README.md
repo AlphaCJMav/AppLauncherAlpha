@@ -19,7 +19,7 @@ Usage
 
 Clone the Repository:
 
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/AlphaCJMav/AppLauncherAlpha.git
 
 Make the Script Executable:
 
@@ -31,6 +31,5 @@ Run the Script:
 
 Follow the on-screen instructions to enter the launcher details and save the file in the desired location.
 
-THANKS YOU.
 
 THANK YOU.
