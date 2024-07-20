@@ -7,10 +7,10 @@ GRACIAS
 
 Características
 
-    Generación Automática: Crea archivos .desktop con las propiedades especificadas por el usuario.
-    Flexibilidad en la Ruta: Permite especificar la ruta para guardar el archivo .desktop y asegura que la extensión .desktop sea añadida si es necesario.
-    Soporte para Opciones Adicionales: Incluye campos opcionales para acciones adicionales y tipos MIME.
-    Mensajes Claros: Proporciona instrucciones sobre dónde colocar el archivo para que esté disponible globalmente o solo para el usuario actual, y cómo agregar el directorio al perfil de bash.
+Generación Automática: Crea archivos .desktop con las propiedades especificadas por el usuario.
+Flexibilidad en la Ruta: Permite especificar la ruta para guardar el archivo .desktop y asegura que la extensión .desktop sea añadida si es necesario.
+Soporte para Opciones Adicionales: Incluye campos opcionales para acciones adicionales y tipos MIME.
+Mensajes Claros: Proporciona instrucciones sobre dónde colocar el archivo para que esté disponible globalmente o solo para el usuario actual, y cómo agregar el directorio al perfil de bash.
 
 Uso
 
