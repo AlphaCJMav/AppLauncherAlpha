@@ -7,33 +7,30 @@ This Python script allows you to create .desktop files for applications on Linux
 I hope it helps you as much as it has helped me.
 
 THANK YOU
+
 Features
 
-    Automatic Generation: Creates .desktop files with properties specified by the user.
-    Path Flexibility: Allows specifying the path to save the .desktop file and ensures that the .desktop extension is added if necessary.
-    Support for Additional Options: Includes optional fields for extra actions and MIME types.
-    Clear Messages: Provides instructions on where to place the file to make it available globally or just for the current user, and how to add the directory to the bash profile.
+Automatic Generation: Creates .desktop files with properties specified by the user.
+Path Flexibility: Allows specifying the path to save the .desktop file and ensures that the .desktop extension is added if necessary.
+Support for Additional Options: Includes optional fields for extra actions and MIME types.
+Clear Messages: Provides instructions on where to place the file to make it available globally or just for the current user, and how to add the directory to the bash profile.
 
 Usage
 
 Clone the Repository:
 
-bash
-
-git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/your_username/your_repository.git
 
 Make the Script Executable:
 
-bash
-
-chmod +x create_launcher.py
+    chmod +x create_launcher.py
 
 Run the Script:
 
-bash
-
-./create_launcher.py
+    ./create_launcher.py
 
 Follow the on-screen instructions to enter the launcher details and save the file in the desired location.
+
+THANKS YOU.
 
 THANK YOU.
