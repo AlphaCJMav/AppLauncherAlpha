@@ -16,7 +16,7 @@ Uso
 
 Clona el Repositorio:
 
-    . git clone https://github.com/tu_usuario/tu_repositorio.git
+    . git clone https://github.com/AlphaCJMav/AppLauncherAlpha.git
 
 Haz el Script Ejecutable:
 
